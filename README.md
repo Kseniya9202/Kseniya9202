@@ -6,11 +6,11 @@ I'm an aspiring web designer, working remotely, and I have to work to support my
 
 Information about me:
 -----------------------
-Name: Vanchikova Ksenia Nikolaevna.
-Age:	31 year.
-Accommodation: Kyiv city.
-Profession: Web Designer.
-Website: https://github.com/Kseniya9202.
+1) Name: Vanchikova Ksenia Nikolaevna.
+2) Age:	31 year.
+3) Accommodation: Kyiv city.
+4) Profession: Web Designer.
+5) Website: https://github.com/Kseniya9202.
 
 Changelog:
 -----------------------
