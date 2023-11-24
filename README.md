@@ -4,31 +4,37 @@
 I'm an aspiring web designer, working remotely, and I have to work to support myself and my child.
 
 
-Template Info:
+Information about me:
 -----------------------
-Name: 		Ksenia - Free Bootstrap One Page Portfolio Resume Tempalte
-Version: 	1.0
-Author: 	ThemeSINE
-Website: 	https://www.themesine.com/
-
+Name: 		Vanchikova Ksenia Nikolaevna
+Age:		31 year
+Accommodation: 	Kyiv city
+Profession: 	Web Designer
+Website: 	https://github.com/Kseniya9202
 
 Changelog:
 -----------------------
-Version 1.0 14-05-2018
-- initial release 
+1) PHOTOSHOP DESIGN;
+2) HTML LINKS;
+3) WEB DESIGN;
+4) HTML GRAPHICS;
+5) HTML MEDIA;
+6) CSS 3 ANIMATION;
+7) COMMUNICATION;
+8) CREATIVITY.
 
 
-Credits:
+EDUCATION:
 -----------------------
-- Twitter Bootstrap [http://getbootstrap.com](https://t.me/KsushokVseOk)
-- jQuery http://jquery.org
-- Modernizr https://modernizr.com/
-- Sticky.js http://stickyjs.com/
-- JQuery easing https://github.com/gdsmith/jquery.easing
-- Bootsnav http://bootsnav.danurstrap.com/
-- Pexels https://www.pexels.com/
-- Unsplash https://unsplash.com/
+From 2007 to 2010 she studied at the State Professional Educational Institution “Kiev Higher Vocational School of Water Transport” with a degree in computer typing operator.
 
-License:
+EXPERIENCE:
 -----------------------
-This template is under Free License - https://www.themesine.com/license/
+I studied Photoshop and am still learning it myself. I was taught web design and all its intricacies by a specially experienced person who understands this. Thanks to this person, I now know a lot, how to insert text, how to change the color of text, background, how to insert tables, links, images. How to make text smaller, larger, change the text font.
+
+CONTACT ME:
+-----------------------
+1) Email:
+margorita.vanchikova@gmail.com;
+2) Telegram:
+@KsushokVseOk.
