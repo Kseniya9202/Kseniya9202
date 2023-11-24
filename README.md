@@ -1,5 +1,5 @@
 -----------------------
-# README
+# Vanchikova Ksenia Nikolaevna
 -----------------------
 Ksenia is a one page bootstrap 3 based resume/portfolio template.
 
