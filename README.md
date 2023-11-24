@@ -1,5 +1,5 @@
 -----------------------
-# Vanchikova Ksenia Nikolaevna
+# Ksenia Nikolaevna
 -----------------------
 I started with Photoshop because I really enjoy taking photos and enhancing them. But since I worked 8-12 hours a day, I didn't have enough time to take photos and edit them. I changed jobs many times due to my schedule and also lost a lot of time searching for a job that suited my schedule. I kept thinking that I couldn’t find a job that would suit me. One day I was offered to try my hand at web design. Yes, this is a new area for me and I didn’t understand anything there, but as soon as I started to understand it, I realized that there was nothing complicated here. And now I work as a web designer.
 
