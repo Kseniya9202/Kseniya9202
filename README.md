@@ -10,7 +10,7 @@ Information about me:
 2) Age:	31 year.
 3) Accommodation: Kyiv city.
 4) Profession: Web Designer.
-5) Website: https://file:///D:/HTML/Kseniya/index.html
+5) Website: <a href = "Уроки HTML/Kseniya/index.html" target="_blank">Kseniya</a>
 
 Changelog:
 -----------------------
