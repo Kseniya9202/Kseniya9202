@@ -1,7 +1,7 @@
 -----------------------
 # Vanchikova Ksenia Nikolaevna
 -----------------------
-Ksenia is a one page bootstrap 3 based resume/portfolio template.
+I'm an aspiring web designer, working remotely, and I have to work to support myself and my child.
 
 
 Template Info:
